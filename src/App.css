@@ -1,0 +1,17 @@
+.Amarg{
+  margin: 15px;
+}
+
+.item-cont{
+  text-align: left;
+}
+.Asizbtn{
+  min-width: 80px;
+}
+
+#mydiv{
+  border: 3px solid blueviolet;
+  width: 60%;
+  min-width: 50%;
+  
+}
